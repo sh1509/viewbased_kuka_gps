@@ -1,0 +1,10 @@
+
+
+exp_name:   box2d_pointmass_pigps_example_06-27-21_14-04
+alg_type:   AlgorithmPIGPS
+alg_dyn:    None
+alg_cost:   CostSum(CostAction, CostState)
+iterations: 20
+conditions: 4
+samples:    30
+

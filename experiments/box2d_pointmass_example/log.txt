@@ -1,0 +1,95 @@
+
+
+exp_name:   box2d_pointmass_example_06-17-21_12-56
+alg_type:   AlgorithmTrajOpt
+alg_dyn:    DynamicsLRPrior
+alg_cost:   CostSum(CostAction, CostState)
+iterations: 10
+conditions: 1
+samples:    5
+
+box2d_pointmass_example_06-17-21_12-56
+    |          |          condition 0      
+itr | avg_cost |   cost     step   entropy 
+  0 | 13795.45 | 13795.45     0.20   321.89
+  1 |  7589.42 |  7589.42     1.00   320.94
+  2 |  2142.37 |  2142.37     2.00   316.38
+  3 |   737.00 |   737.00     2.00   304.09
+  4 |   470.29 |   470.29     2.00   287.99
+  5 |   411.59 |   411.59     2.00   257.18
+  6 |   398.55 |   398.55     2.00   161.55
+  7 |   409.03 |   409.03     0.80   150.45
+  8 |   398.66 |   398.66     2.00   130.60
+  9 |   402.31 |   402.31     0.49    41.51
+
+
+exp_name:   box2d_pointmass_example_06-17-21_15-19
+alg_type:   AlgorithmTrajOpt
+alg_dyn:    DynamicsLRPrior
+alg_cost:   CostSum(CostAction, CostState)
+iterations: 10
+conditions: 1
+samples:    5
+
+box2d_pointmass_example_06-17-21_15-19
+    |          |          condition 0      
+itr | avg_cost |   cost     step   entropy 
+  0 | 13795.45 | 13795.45     0.20   321.89
+  1 |  7589.42 |  7589.42     1.00   320.94
+  2 |  2142.37 |  2142.37     2.00   316.38
+  3 |   737.00 |   737.00     2.00   304.09
+  4 |   470.29 |   470.29     2.00   287.99
+  5 |   411.59 |   411.59     2.00   257.18
+  6 |   398.55 |   398.55     2.00   161.55
+
+
+exp_name:   box2d_pointmass_example_06-17-21_15-51
+alg_type:   AlgorithmTrajOpt
+alg_dyn:    DynamicsLRPrior
+alg_cost:   CostSum(CostAction, CostState)
+iterations: 10
+conditions: 1
+samples:    5
+
+
+
+exp_name:   box2d_pointmass_example_06-18-21_18-28
+alg_type:   AlgorithmTrajOpt
+alg_dyn:    DynamicsLRPrior
+alg_cost:   CostSum(CostAction, CostState)
+iterations: 10
+conditions: 1
+samples:    5
+
+box2d_pointmass_example_06-18-21_18-28
+    |          |          condition 0      
+itr | avg_cost |   cost     step   entropy 
+  0 | 13795.45 | 13795.45     0.20   321.89
+  1 |  7589.42 |  7589.42     1.00   320.94
+  2 |  2142.37 |  2142.37     2.00   316.38
+  3 |   737.00 |   737.00     2.00   304.09
+  4 |   470.29 |   470.29     2.00   287.99
+  5 |   411.59 |   411.59     2.00   257.18
+  6 |   398.55 |   398.55     2.00   161.55
+  7 |   409.03 |   409.03     0.80   150.45
+  8 |   398.66 |   398.66     2.00   130.60
+
+
+exp_name:   box2d_pointmass_example_06-27-21_13-40
+alg_type:   AlgorithmTrajOpt
+alg_dyn:    DynamicsLRPrior
+alg_cost:   CostSum(CostAction, CostState)
+iterations: 10
+conditions: 1
+samples:    5
+
+box2d_pointmass_example_06-27-21_13-40
+    |          |          condition 0      
+itr | avg_cost |   cost     step   entropy 
+  0 | 13795.45 | 13795.45     0.20   321.89
+  1 |  7589.42 |  7589.42     1.00   320.94
+  2 |  2142.37 |  2142.37     2.00   316.38
+  3 |   737.00 |   737.00     2.00   304.09
+  4 |   470.29 |   470.29     2.00   287.99
+  5 |   411.59 |   411.59     2.00   257.18
+  6 |   398.55 |   398.55     2.00   161.55
