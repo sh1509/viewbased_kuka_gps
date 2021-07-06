@@ -1,8 +1,8 @@
-GPS
+GPS with View-Based Teaching/Playback
 ======
 
-This code is a reimplementation of the guided policy search algorithm and LQG-based trajectory optimization, meant to help others understand, reuse, and build upon existing work.
+This code is a sort of forked from the orginial GPS repository and has been modified to add Kuka Industrial Robot to fit into the GPS.
 
-For full documentation, see [rll.berkeley.edu/gps](http://rll.berkeley.edu/gps).
+For full documentation on GPS and original work, see [rll.berkeley.edu/gps](http://rll.berkeley.edu/gps).
 
-The code base is **a work in progress**. See the [FAQ](http://rll.berkeley.edu/gps/faq.html) for information on planned future additions to the code.
+
